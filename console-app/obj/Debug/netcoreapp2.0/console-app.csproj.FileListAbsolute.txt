@@ -1,0 +1,10 @@
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\bin\Debug\netcoreapp2.0\console-app.deps.json
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\bin\Debug\netcoreapp2.0\console-app.runtimeconfig.json
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\bin\Debug\netcoreapp2.0\console-app.runtimeconfig.dev.json
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\bin\Debug\netcoreapp2.0\console-app.dll
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\bin\Debug\netcoreapp2.0\console-app.pdb
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\obj\Debug\netcoreapp2.0\console-app.csproj.CoreCompileInputs.cache
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\obj\Debug\netcoreapp2.0\console-app.AssemblyInfoInputs.cache
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\obj\Debug\netcoreapp2.0\console-app.AssemblyInfo.cs
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\obj\Debug\netcoreapp2.0\console-app.dll
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\obj\Debug\netcoreapp2.0\console-app.pdb

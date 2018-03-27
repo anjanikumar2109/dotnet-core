@@ -1,0 +1,10 @@
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\mvcapp\bin\Debug\netcoreapp2.0\mvcapp.deps.json
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\mvcapp\bin\Debug\netcoreapp2.0\mvcapp.runtimeconfig.json
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\mvcapp\bin\Debug\netcoreapp2.0\mvcapp.runtimeconfig.dev.json
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\mvcapp\bin\Debug\netcoreapp2.0\mvcapp.dll
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\mvcapp\bin\Debug\netcoreapp2.0\mvcapp.pdb
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\mvcapp\obj\Debug\netcoreapp2.0\mvcapp.csproj.CoreCompileInputs.cache
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\mvcapp\obj\Debug\netcoreapp2.0\mvcapp.AssemblyInfoInputs.cache
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\mvcapp\obj\Debug\netcoreapp2.0\mvcapp.AssemblyInfo.cs
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\mvcapp\obj\Debug\netcoreapp2.0\mvcapp.dll
+C:\Users\wiznidev\Anjani\Training\Tutorial\dotnet-core\console-app\mvcapp\obj\Debug\netcoreapp2.0\mvcapp.pdb
